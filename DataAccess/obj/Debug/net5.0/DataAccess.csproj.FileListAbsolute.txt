@@ -1,0 +1,16 @@
+D:\Student\PRN211\AS3\PRN_Assignment03_eStore-master\DataAccess\bin\Debug\net5.0\appsettings.json
+D:\Student\PRN211\AS3\PRN_Assignment03_eStore-master\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+D:\Student\PRN211\AS3\PRN_Assignment03_eStore-master\DataAccess\bin\Debug\net5.0\DataAccess.dll
+D:\Student\PRN211\AS3\PRN_Assignment03_eStore-master\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+D:\Student\PRN211\AS3\PRN_Assignment03_eStore-master\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+D:\Student\PRN211\AS3\PRN_Assignment03_eStore-master\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+D:\Student\PRN211\AS3\PRN_Assignment03_eStore-master\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+D:\Student\PRN211\AS3\PRN_Assignment03_eStore-master\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Student\PRN211\AS3\PRN_Assignment03_eStore-master\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+D:\Student\PRN211\AS3\PRN_Assignment03_eStore-master\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+D:\Student\PRN211\AS3\PRN_Assignment03_eStore-master\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Student\PRN211\AS3\PRN_Assignment03_eStore-master\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+D:\Student\PRN211\AS3\PRN_Assignment03_eStore-master\DataAccess\obj\Debug\net5.0\DataAccess.dll
+D:\Student\PRN211\AS3\PRN_Assignment03_eStore-master\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+D:\Student\PRN211\AS3\PRN_Assignment03_eStore-master\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+D:\Student\PRN211\AS3\PRN_Assignment03_eStore-master\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
